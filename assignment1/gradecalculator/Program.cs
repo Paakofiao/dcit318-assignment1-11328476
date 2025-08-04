@@ -18,7 +18,7 @@ else if (gradeInput >= 60 && gradeInput <= 69)
 {
     Console.WriteLine("Your Grade is a D");
 }
-else if (gradeInput < 60);
+else 
 {
     Console.WriteLine("Your grade is an F");
 }
